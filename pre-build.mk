@@ -1,0 +1,2 @@
+TOP_DIR=$(CURDIR)
+export TOP_DIR

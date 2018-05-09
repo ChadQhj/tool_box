@@ -1,0 +1,8 @@
+#!/bin/sh
+
+os_major_version=1
+os_minor_version=0
+sys_major_version=1
+sys_minor_version=0
+os_version=$os_major_version.$os_minor_version.$sys_major_version.$sys_minor_version
+echo $os_version

@@ -1,0 +1,3 @@
+COMPILE_idscore=y
+COMPILE_statistics=y
+COMPILE_mgr=y

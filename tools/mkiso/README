@@ -1,0 +1,7 @@
+step1: excute prepare.sh
+step2: chroot squashfs-root
+step3: excute /home/install_depends.sh
+step4: modify /etc/apache2/port.conf
+step5: modify /etc/apache2/sites-enabled/default-ssl.conf
+step6: exit from squashfs-root
+step7: excute make_iso.sh
